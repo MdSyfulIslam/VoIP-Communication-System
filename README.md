@@ -116,7 +116,7 @@ This system aims to replicate a simplified version of common VoIP software like 
 
 ## 👨‍💻 Authors
 
-**Md Syful Islam**  Student ID: 222002111
+**Md Syful Islam**  Student ID: 222002111 
 **Tasdid Rahman Khan**  Student ID : 222002029
 
 🎓 B.Sc. in CSE (Day), Green University of Bangladesh  
@@ -130,6 +130,5 @@ This system aims to replicate a simplified version of common VoIP software like 
 ## 📎 References
 
 1. Khasnabish, B. (2003). *Implementing Voice over IP*. Wiley-IEEE Press.  
-2. Douskalis, B. (1999). *IP Telephony: The Integration of Robust VoIP Services*. Addison-Wesley.  
-3. [Java Sockets Documentation – Oracle](https://docs.oracle.com/javase/tutorial/networking/sockets/)  
-4. [Java Sound API Guide](https://docs.oracle.com/javase/tutorial/sound/)  
+2. [Java Sockets Documentation – Oracle](https://docs.oracle.com/javase/tutorial/networking/sockets/)  
+3. [Java Sound API Guide](https://docs.oracle.com/javase/tutorial/sound/)  
